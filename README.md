@@ -13,3 +13,7 @@ A simple script for developers to get the coordinates of a site and send them to
 
 ![image](https://github.com/Micky014/micky_getcoords/assets/69732917/4391cf13-a777-4ad4-bbd2-a56b5649fb1b)
 ![image](https://github.com/Micky014/micky_getcoords/assets/69732917/8138f066-ac96-401f-b14f-58f7869a8762)
+
+# ⁉️ F.A.Q
+### Q: I can't use the command / it tells me I don't have permission to use it.
+**R:** The command is protected by [ACE](https://forum.cfx.re/t/basic-aces-principals-overview-guide/90917) permissions, add in the server.cfg the configuration that suits you or simply enable that the command can be used for everybody in line 32.
