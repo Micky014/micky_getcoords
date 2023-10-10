@@ -17,3 +17,7 @@ A simple script for developers to get the coordinates of a site and send them to
 # ⁉️ F.A.Q
 ### Q: I can't use the command / it tells me I don't have permission to use it.
 **R:** The command is protected by [ACE](https://forum.cfx.re/t/basic-aces-principals-overview-guide/90917) permissions, add in the server.cfg the configuration that suits you or simply enable that the command can be used for everybody in line 32.
+
+# 👋 Micky014
+- Discord support: https://discord.mickydev.com
+- Tebex store: https://micky014.tebex.io
